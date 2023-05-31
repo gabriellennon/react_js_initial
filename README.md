@@ -16,8 +16,7 @@
 Esse projeto foi desenvolvido com o objetivo de praticar com os alunos do curso da Gama Academy os conceitos iniciais do React (Components e Props)
 
 ## :gear: Slides
-- [Slides Apresentação]([https://docs.google.com/presentation/d/16vyV5W5QJ-NSSCAfWVQOilDn9-ajkhjmtxKnrT88Szg/edit?usp=sharing](https://docs.google.com/presentation/d/1fLq54-Z_w43GcjXzywuqEpi03RsBgtuSw450n-GVhD4/edit?usp=sharing))
-
+-[Slides do conteúdo](https://docs.google.com/presentation/d/1fLq54-Z_w43GcjXzywuqEpi03RsBgtuSw450n-GVhD4/edit?usp=sharing)
 ## :wave: Social
 
 Follow me @gabriellennon :wink:
